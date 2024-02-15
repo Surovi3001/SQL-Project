@@ -10,7 +10,6 @@ There is 1 CSV File in this set. Accidents are the primary ones and have referen
 
 DESCRIPTION
 This Dataset contains 31 Features covering over a 426671 records. This dataset consists of various features like,
-Accidental / Longitude: Location of Accident
 
 Accident_Severity: Accident Severity on the Scale of 1 to 5
 
