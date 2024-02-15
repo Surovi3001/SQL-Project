@@ -1,0 +1,13 @@
+After analysis of the dataset UK_Accidents, here are some conclusion that were drawn:
+
+The Highest number of casualties has occurred when:
+1. Number of vehicles involved: 2 . This indicates most of the time the number of vehicles involved at the accident scene are 2.
+2. Year : 2015. The most no.0f casualties has occurred in the year 2015 but it has decreased over the next 2 years which indicates safety measures have been taken to prevent road accidents by the government.
+3. Day_of_the_week : Irrespective of the year it is the 6th day(Saturday) that has the most no of accidents.
+4. Road Type: Single Carriageway has caused the most casualties (2,92,832).
+5. Light_condition: Daylight:Street Light present & Weather_condition: Fine without high winds.
+
+The number of casualties has been least when the weather condition is bad.
+
+Road safety is important for the safety of people, vehicles, and pedestrians. Road safety measures can help reduce the risk of accidents, injuries, and fatalities on the road. 
+Road safety education is as essential as any other basic skills of survival. It will reduce the number of accidents and casualties.
