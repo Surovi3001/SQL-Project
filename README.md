@@ -9,7 +9,7 @@ CONTENT
 There is 1 CSV File in this set. Accidents are the primary ones and have references by Accident_Index to the casualties and vehicles tables. This might be better done as a database.
 
 DESCRIPTION
-This Dataset contains 31 Features covering over a 1.8million records. This dataset consists of various features like,
+This Dataset contains 31 Features covering over a 426671 records. This dataset consists of various features like,
 Accidental / Longitude: Location of Accident
 
 Accident_Severity: Accident Severity on the Scale of 1 to 5
